@@ -1,0 +1,4 @@
+matplotlib
+ffmpeg-python
+moviepy
+librosa
